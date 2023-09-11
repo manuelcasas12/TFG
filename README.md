@@ -4,7 +4,7 @@ Requisitos de ejecución:
 - Django
 
 Commandos:
->.\TFG\myWeb\manage.py makemigrations
+>.\TFG\myWeb\manage.py makemigrations \\
 >.\TFG\myWeb\manage.py migrate
 >.\TFG\myWeb\manage.py runserver
 
