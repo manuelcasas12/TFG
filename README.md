@@ -7,15 +7,15 @@
 #### Commandos:
 
 ```
-python .\TFG\myWeb\manage.py makemigrations
+python .\myWeb\manage.py makemigrations
 ```
 
 ```
-python .\TFG\myWeb\manage.py migrate
+python .\myWeb\manage.py migrate
 ```
 
 ```
-python .\TFG\myWeb\manage.py runserver
+python .\myWeb\manage.py runserver
 ```
 
 Abrir link en el explorador -> http://127.0.0.1:8000/
