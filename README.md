@@ -3,6 +3,7 @@
 #### Requisitos de ejecución:
 - Python (versión 3.11.1 o superior)
 - Django
+- Pandas
 
 #### Commandos:
 
